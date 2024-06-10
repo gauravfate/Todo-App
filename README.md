@@ -17,7 +17,6 @@ This is a simple Todo App built using React and TypeScript. This project demonst
 - **Tailwind Css**: For styling the application.
 
 todo-app-typescript/
-
 ├── public/
 │   ├── icons8-todo-list-32.png
 │   └── vite.svg
