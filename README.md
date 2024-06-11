@@ -14,4 +14,8 @@ This is a simple Todo App built using React and TypeScript. This project demonst
 
 - **React**: A JavaScript library for building user interfaces.
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
-- **Tailwind Css**: For styling the application.
+- **Tailwind CSS**: For styling the application.
+
+## Live Demo
+
+Check out the live version of the app [here](https://todo-app-29fu.onrender.com).
