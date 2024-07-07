@@ -18,4 +18,4 @@ This is a simple Todo App built using React and TypeScript. This project demonst
 
 ## Live Demo
 
-Check out the live version of the app [here](https://todo-app-29fu.onrender.com).
+Check out the live version of the app [here](https://todo-app-gaurav.vercel.app/).
